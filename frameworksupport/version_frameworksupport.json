@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "check_url": "https://raw.githubusercontent.com/TaylorMcGaw-LARP/snaily_frameworksupport/main/version_frameworksupport.json",
+    "check_url": "https://raw.githubusercontent.com/TaylorMcGaw-LARP/snaily_frameworksupport/main/frameworksupport/version_frameworksupport.json",
     "download_url": "https://github.com/TaylorMcGaw-LARP/snaily_frameworksupport/",
     "configVersion": "1.0"
 }
