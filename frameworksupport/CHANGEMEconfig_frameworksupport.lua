@@ -6,7 +6,7 @@
     Put all needed configuration in this file.
 
 ]] local config = {
-    enabled = true,
+    enabled = false,
     configVersion = "1.0",
     pluginName = "frameworksupport", -- name your plugin here
     pluginAuthor = "TaylorMcGaw-LARP", -- author
